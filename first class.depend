@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1647261192 source:f:\aمحمد عصام\تاسكات الكلية\first class\main.cpp
+	<iostream>
+	<string>
+	"Car.h"
+	<cmath>
+
+1647259679 source:f:\aمحمد عصام\تاسكات الكلية\first class\src\car.cpp
+	"Car.h"
+	<iostream>
+	<string>
+
+1647257380 f:\aمحمد عصام\تاسكات الكلية\first class\include\car.h
+	<iostream>
+	<string>
+
